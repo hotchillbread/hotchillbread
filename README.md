@@ -8,3 +8,13 @@ I'm not good at communicate in english, i should improve this abilty
 hotchillbread/hotchillbread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+*my stact*
+
+
+-React/Next.js 
+-Express/NestJS 
+-PM2 + Nginx 
+-EC2, S3, RDS, R2
+-Docker 
+-Cloudflare
+-GitHub Actions or Git
