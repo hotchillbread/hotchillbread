@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 *my stact*
 
 
--React/Next.js 
--Express/NestJS 
--PM2 + Nginx 
--EC2, S3, RDS, R2
--Docker 
--Cloudflare
--GitHub Actions or Git
+- React/Next.js 
+- Express/NestJS 
+- PM2 + Nginx 
+- EC2, S3, RDS, R2
+- Docker 
+- Cloudflare
+- GitHub Actions or Git
