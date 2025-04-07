@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - React/Next.js 
-- Express/NestJS 
+- Express/NestJS
+- mySql, mongoDB
 - PM2 + Nginx 
 - EC2, S3, RDS, R2
 - Docker 
