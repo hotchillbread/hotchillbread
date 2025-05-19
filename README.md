@@ -33,7 +33,7 @@ Role: Backend Developer & DevOps
 
 Designed RESTful APIs with NestJS
 
-Deployed backend using EC2 + PM2 + Nginx
+Deployed backend using EC2 + PM2 + Nginx + docker
 
 Managed DBs with Docker (MySQL)
 
