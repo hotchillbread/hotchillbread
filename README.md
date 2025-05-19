@@ -1,21 +1,56 @@
-- 👋 Hi, I’m @hotchillbread
-- 👀 I’m interested in cloudcomputing (i love cloudflare & vercel, r2 is awesome)
-- 🌱 I’m currently learning NEXT.JS and AI 
-- 💞️ I’m looking to collaborate on making web site
-- 📫 How to reach email kimbap0114@gmail.com
-I'm not good at communicate in english, i should improve this abilty
-<!---
-hotchillbread/hotchillbread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-*my stact*
+✨ About Me
+👋 Hi, I’m @hotchillbread
+🚀 Passionate about full-stack web development and cloud infrastructure
+🎯 Currently exploring Next.js, AI, and cloud-native architectures
+🌍 Open to collaboration, especially for web/app development projects
+📧 Reach me: kimbap0114@gmail.com
 
-- React
-- Express/NestJS
-- mySql, mongoDB
-- PM2 + Nginx 
-- EC2, S3, RDS, R2
-- Docker 
-- Cloudflare
-- GitHub Actions or Git 
-- REST API, graphQL
+🛠 Tech Stack
+Frontend: React, Next.js
+
+Backend: Express, NestJS
+
+DB: MySQL, MongoDB
+
+Infra: Docker, PM2, Nginx, AWS (EC2, S3, RDS), Cloudflare (incl. R2)
+
+CI/CD: GitHub Actions, Git
+
+API: REST, GraphQL
+
+💼 Experience
+🎮 [Major Course Project] Adventure Design (PM + UX/UI Prototype)
+Role: UX/UI Designer, Planning
+
+Designed interactive prototypes and user flows using Figma
+
+Focused on user needs and accessibility principles
+
+Communicated ideas via user scenarios and wireframes
+
+🧩 [Personal Project] Backend API Service Deployment
+Role: Backend Developer & DevOps
+
+Designed RESTful APIs with NestJS
+
+Deployed backend using EC2 + PM2 + Nginx
+
+Managed DBs with Docker (MySQL)
+
+Cloudflare for r2
+
+Set up CI/CD with GitHub Actions
+
+Architected scalable server structure and API security policies
+
+💡 Keywords for Highlight (e.g. on LinkedIn or portfolio)
+“Cloud-native web development”
+
+“End-to-end deployment experience”
+
+“Full-stack with infra awareness”
+
+“From UI/UX design to backend ops”
+
+🗣 English Skills
+I'm currently improving my communication in English. I'm better at reading technical documentation than speaking, but always open to collaboration with kindness and clarity.
