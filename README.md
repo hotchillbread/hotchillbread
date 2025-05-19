@@ -29,6 +29,9 @@ Focused on user needs and accessibility principles
 Communicated ideas via user scenarios and wireframes
 
 🧩 [Personal Project] Backend API Service Deployment
+
+https://github.com/We-Band/We-Band-BE <- my project git address
+
 Role: Backend Developer & DevOps
 
 Designed RESTful APIs with NestJS
