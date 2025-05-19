@@ -8,7 +8,8 @@
 🛠 Tech Stack
 Frontend: React, Next.js, v0(for fast prototype & ui design)
 
-Backend: Express, NestJS
+Backend: Express, NestJS, spring
+
 
 DB: MySQL, MongoDB
 
@@ -17,6 +18,15 @@ Infra: Docker, PM2, Nginx, AWS (EC2, S3, RDS), Cloudflare (incl. R2)
 CI/CD: GitHub Actions, Git
 
 API: REST, GraphQL
+
+AI Infra:
+
+Open-source AI codebases (e.g., LLM inference repos)
+
+Model deployment using Docker + GPU setup
+
+Basic pipeline setup for local or remote inference
+
 
 💼 Experience
 🎮 [Major Course Project] Adventure Design (PM + UX/UI Prototype)
@@ -28,7 +38,7 @@ Focused on user needs and accessibility principles
 
 Communicated ideas via user scenarios and wireframes
 
-🧩 [Personal Project] Backend API Service Deployment
+🧩 [Personal Project] Backend API Service Deployment 
 
 https://github.com/We-Band/We-Band-BE <- my project git address
 
