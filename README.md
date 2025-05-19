@@ -6,7 +6,7 @@
 📧 Reach me: kimbap0114@gmail.com
 
 🛠 Tech Stack
-Frontend: React, Next.js
+Frontend: React, Next.js, v0(for fast prototype & ui design)
 
 Backend: Express, NestJS
 
