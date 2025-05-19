@@ -59,14 +59,8 @@ Set up CI/CD with GitHub Actions
 
 Architected scalable server structure and API security policies
 
-💡 Keywords for Highlight (e.g. on LinkedIn or portfolio)
-“Cloud-native web development”
-
+💡 Keywords for Highlight
 “End-to-end deployment experience”
-
-“Full-stack with infra awareness”
-
-“From UI/UX design to backend ops”
 
 🗣 English Skills
 I'm currently improving my communication in English. I'm better at reading technical documentation than speaking, but always open to collaboration with kindness and clarity.
