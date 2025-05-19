@@ -5,6 +5,9 @@
 🌍 Open to collaboration, especially for web/app development projects
 📧 Reach me: kimbap0114@gmail.com
 
+Comfortable working in Ubuntu and Amazon Linux 2 environments for deploying backend and AI services.
+Experienced in both high-level (TypeScript, Python, Java) and low-level (C, C++, ARM Assembly) languages, enabling end-to-end development from system-level optimization to full-stack web apps.
+
 🛠 Tech Stack
 Frontend: React, Next.js, v0(for fast prototype & ui design)
 
